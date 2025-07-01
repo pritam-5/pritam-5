@@ -46,16 +46,19 @@
 
 ## 🌐 Connect with Me  
 
-<p align="left">
+<p align="center">
   <a href="https://my-portfolio-website-theta-sepia.vercel.app" target="_blank">
     <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" width="40" height="40"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="https://linkedin.com/in/pritam-bera-733703270" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="https://www.reddit.com/user/Specialist_Sweet5818/" target="_blank">
     <img src="https://img.icons8.com/color/48/reddit.png" alt="Reddit" width="40" height="40"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="https://x.com/PritamB19773264" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/twitterx--v1.png" alt="X" width="40" height="40"/>
   </a>
