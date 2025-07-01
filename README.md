@@ -48,18 +48,20 @@
 
 <p align="left">
   <a href="https://my-portfolio-website-theta-sepia.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" width="40" height="40"/>
   </a>
   <a href="https://linkedin.com/in/pritam-bera-733703270" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://www.reddit.com/user/Specialist_Sweet5818/" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+    <img src="https://img.icons8.com/color/48/reddit.png" alt="Reddit" width="40" height="40"/>
   </a>
   <a href="https://x.com/PritamB19773264" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx--v1.png" alt="X" width="40" height="40"/>
   </a>
 </p>
+
+
 
 ## 📌 Current Focus  
 
